@@ -18,30 +18,14 @@ De forma simples: é como um “diretor” que chama os “atores” (funções 
 
 1. Criação de **duas funções Lambda**:
    - `inicioFunction`: representa o início do processo.
-   ![Diagrama](https://imgur.com/HyPLUkO)
-   <br>
 
    - `fimFunction`: representa o término do processo.
-   ![Diagrama](https://imgur.com/blwiEy6)
-
-
+ 
 2. Criação de uma **Step Function** que executa:
    - O estado **“Início”**, que chama a `inicioFunction`;
    - Depois o estado **“Fim”**, que chama a `fimFunction`.
 
 3. Execução do fluxo completo, mostrando como a Step Function coordena as funções automaticamente.
-
----
-
-## Imagens do Projeto
-
-**Tela do workflow no Step Function**
-![Diagrama](https://imgur.com/eywdaDw)
-<br>
-
-**Execução bem-sucedida**
-![Resultado](https://imgur.com/KARqIRW)
-
 
 ---
 

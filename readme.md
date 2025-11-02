@@ -46,12 +46,4 @@ Outro ponto importante foi a experiência de visualizar o fluxo completo diretam
 
 - [Documentação oficial do AWS Step Functions](https://docs.aws.amazon.com/step-functions/)
 - [Documentação AWS Lambda](https://docs.aws.amazon.com/lambda/)
-- [Plataforma DIO](https://www.dio.me)
 
----
-
-## Autora
-
-**Ellie Vieira**  
-Desenvolvedora em formação • Explorando automação e computação em nuvem  
-[GitHub](https://github.com/EllieVieira)
